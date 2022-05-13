@@ -1,0 +1,3 @@
+﻿  pixl1.cpp
+C:\Users\Lexakul\source\repos\pixl1\pixl1\pixl1.cpp(14,9): warning C4101: h: неиспользованная локальная переменная
+  pixl1.vcxproj -> C:\Users\Lexakul\source\repos\pixl1\x64\Debug\pixl1.exe
